@@ -2,7 +2,7 @@
 
 Welcome to the 10-day C programming learning mission! This structured plan is designed to help you learn and reinforce your understanding of various concepts in the C programming language. Each day, you'll focus on a different aspect of C programming, building upon what you've learned in the previous days.
 
-## Day 1: Basics of C
+## Day 1: Basics of C   ✔️
 
 - **Introduction to C programming language**
   - Understand the history and significance of C.
