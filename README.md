@@ -24,7 +24,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
   - Study the scanf() function for input and printf() function for output.
   - Learn how to format output using format specifiers.
 
-## Day 2: Control Flow
+## Day 2: Control Flow   ✔️
 
 - **If-else statements**
   - Learn how to use if-else statements for decision-making.
