@@ -38,7 +38,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Break and continue statements**
   - Understand how to use break and continue statements for loop control.
 
-## Day 3: Functions
+## Day 3: Functions ✔️
 
 - **Declaring and defining functions**
   - Learn how to declare and define functions in C.
@@ -55,7 +55,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Recursion (if time permits)**
   - Explore recursive functions for solving problems.
 
-## Day 4: Arrays
+## Day 4: Arrays ✔️
 
 - **Declaring and initializing arrays**
   - Learn how to declare and initialize arrays in C.
@@ -69,7 +69,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Array as function arguments**
   - Understand how arrays are passed to functions.
 
-## Day 5: Pointers
+## Day 5: Pointers ✔️
 
 - **Introduction to pointers**
   - Understand the concept of pointers in C.
@@ -83,7 +83,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Pointers and functions**
   - Learn how to use pointers with functions.
 
-## Day 6: Strings
+## Day 6: Strings ✔️
 
 - **Basics of strings in C**
   - Understand how strings are represented in C.
