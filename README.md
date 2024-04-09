@@ -97,7 +97,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Handling strings using pointers**
   - Explore techniques for manipulating strings using pointers.
 
-## Day 7: Structures
+## Day 7: Structures ✔️
 
 - **Declaring structures**
   - Learn how to declare structures in C.
