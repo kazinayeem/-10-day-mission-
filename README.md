@@ -111,7 +111,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Nested structures**
   - Explore the concept of nested structures.
 
-## Day 8: File Handling 
+## Day 8: File Handling  ✔️
 
 - **Opening and closing files**
   - Learn how to open and close files in C.
