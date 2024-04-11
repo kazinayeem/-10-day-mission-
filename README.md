@@ -125,7 +125,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Error handling while file operations**
   - Understand how to handle errors during file operations.
 
-## Day 9: Dynamic Memory Allocation
+## Day 9: Dynamic Memory Allocation ✔️
 
 - **Introduction to dynamic memory allocation**
   - Understand the concept of dynamic memory allocation in C.
