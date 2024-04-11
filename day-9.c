@@ -1,3 +1,4 @@
+// day 9
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -8,14 +9,14 @@ typedef struct {
 } Student;
 
 int main() {
-    // Dynamically allocate memory for an array of integers
+  
     int *numbers = (int *)malloc(5 * sizeof(int));
     if (numbers == NULL) {
         printf("Memory allocation failed!\n");
         return 1;
     }
 
-    // Dynamically allocate memory for an array of structures
+  
     Student *students = (Student *)malloc(3 * sizeof(Student));
     if (students == NULL) {
         printf("Memory allocation failed!\n");
