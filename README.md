@@ -139,7 +139,7 @@ Welcome to the 10-day C programming learning mission! This structured plan is de
 - **Using dynamic memory allocation with arrays and structures**
   - Understand how to allocate memory dynamically for arrays and structures.
 
-## Day 10: Putting It All Together (Project Day)
+## Day 10: Putting It All Together (Project Day) ✔️
 
 - **Implement a small project or work on a coding challenge**
   - Incorporate concepts learned in the past days into a project.
